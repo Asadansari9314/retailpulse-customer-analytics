@@ -1,0 +1,2 @@
+ROC_AUC,Precision_at_Top20,ROC_AUC_Target,Top20_Precision_Target,Targets_Met
+0.7769386799812763,0.08184143222506395,0.88,0.75,False

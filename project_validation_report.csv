@@ -1,0 +1,8 @@
+Module,Status
+Sales summary,Ready
+Forecast refresh,Generated
+Customer segments,Exported
+Inventory report,Available: demand_based_inventory.csv
+Churn evaluation,Evaluation exported
+Data drift report,Available
+MLflow tracking,Previously logged; verify in MLflow UI
