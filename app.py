@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-BASE = Path(r"C:\Users\asada\RetailPulse_Final\reports")
+BASE = Path(__file__).resolve().parent
 
 
 @st.cache_data
